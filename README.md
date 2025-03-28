@@ -26,7 +26,7 @@ NeuroCart/
 ## 📜 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/NeuroCart.git
+   git clone https://github.com/ABDIRIZAK-30/NeuroCart.git
    ```
 2. Open `index.html` in your browser.
 3. Customize the styles and scripts as needed.
