@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     burger.addEventListener("click", () => {
         navigationBar.classList.toggle("active");
+        burger.classList.toggle('active');
     });
 });
 
